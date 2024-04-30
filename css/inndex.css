@@ -1,0 +1,118 @@
+  h2 {
+    color: aliceblue;
+
+}
+p {
+  color: #fff;
+}
+
+.container {
+    height: 100vh;
+    background-image: url('/img/WhatsApp\ Image\ 2024-04-30\ at\ 10.38.18_59a464c1.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container nav ul {
+  display: flex;
+position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  position: absolute; 
+  
+  }
+  
+  .container nav ul li {
+list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+ }
+  
+  .container nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .container nav ul li a:hover {
+    background-color: #ffa6a6;
+  }
+  .btn-blue {
+    background-color: #007bff; 
+    color: #fff; 
+    padding: 10px 10px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+  }
+  
+  .btn-blue:hover {
+  
+    background-color:antiquewhite
+  }
+
+  
+.containa {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
+    justify-content: space-around;
+     align-items: baseline;
+    height: 200px  10px;
+    width: 100%; 
+  }
+  
+  p {
+    text-align: center;  
+    margin: 0 auto; 
+    padding: 0px;
+    width: 80%; 
+    height: 60px; 
+
+  }
+  .item {
+    width: 200px;
+    height: 100px;
+    
+  }
+  .vide {
+    display: flex;
+    max-width: 600px; 
+    margin: 100px;
+    justify-content:center ;
+    
+  }
+  
+  .video {
+    width: 100%; 
+    border-radius: 10%;
+  }
+   
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
