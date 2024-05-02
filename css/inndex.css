@@ -94,13 +94,222 @@ list-style-type: none;
     width: 100%; 
     border-radius: 10%;
   }
+
+  .text {
+justify-content: center;
+    display: flex;
+  }
    
-  
-  
-  
+  .head{
+    flex-direction: column;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .head h2,
+  .head p {
+ 
+    color: black;
+  }
+   
+  img {
+    max-width: 100%;
+    height: auto; 
+    margin-top: 20px; 
+    max-height: 200px;
+  }
+
+
+.foot {
+display: flex;
+justify-content: center;
+margin: 150px;
+justify-content: space-around;
+align-items: center;
 
 
 
+}
+
+.len {
+
+  display: flex;
+  flex-direction: column;
+align-items: center;
+}
+
+.len h2 {
+  color: black;
+}
+
+.len p {
+
+  color: black;
+}
+
+.Google {
+color: black;
+display: flex;
+gap: 40px;
+width: 1000px;
+height: 200px;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+
+.itens {
+  color: black;
+justify-content: center;
+display: flex;
+width: 200px;
+height: 200px;
+background-color: rgb(175, 184, 184);
+
+}
+
+.itens-1 img {
+  max-width: 200px;
+  max-height: 100px;
+  margin: auto;
+  
+  
+}
+
+.itens-1 p {
+
+  color: black;
+}
+
+.itens-2 p {
+
+  color: black;
+}
+
+.itens-3 p {
+
+  color: black;
+}
+
+.itens-4 p {
+
+  color: black;
+}
+.itens-5 p {
+
+  color: black;
+}
+
+.itens-6 p {
+
+  color: black;
+}
+
+.itens-7 p {
+
+  color: black;
+}
+.itens-8 p {
+
+  color: black;
+}
+
+
+.go {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end; 
+  height: 40px; 
+  width: 100px; 
+  color: white; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
+}
+
+
+.Google p {
+  
+
+  color: black;
+}
+
+.pen {
+  display: flex;
+  justify-content: center;
+  margin: 500px;
+  align-items: center;
+}
+.pene h2 {
+margin: 80px;
+  color: black;
+}
+
+.pene p {
+  color: black;
+}
+ .pene img {
+
+  max-width: 100px;
+  margin: 100px;
+ }
+
+ button[type=email] {
+  background-color: #3427ea; 
+  border: none; 
+  color: white; 
+  padding: 10px 20px; 
+  text-align: center; 
+  text-decoration: none; 
+  display: flex; 
+  font-size: 16px; 
+  margin: 70px 60px; 
+  cursor: pointer; 
+  border-radius: 10px; 
+}
+
+button[type= submit] {
+  background-color: #3427ea; 
+  border: none; 
+  color: white; 
+ width: 5px 5px; 
+  text-align: center; 
+  text-decoration: none; 
+  display: flex; 
+  font-size: 16px; 
+  cursor: pointer; 
+  border-radius: 10px; 
+}
+
+
+
+.compli {
+
+  background-color: rgb(44, 42, 42);
+  width: auto;
+  height: 500px;
+}
+
+
+
+.copli {
+
+background-color: black;
+width: 800px;
+height: 500px;
+justify-content: space-around;
+
+}
+
+.co {
+background-color: rgb(135, 179, 217);
+width: 400px;
+height: 167px;
+
+}
 
 
 
